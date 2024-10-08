@@ -1,14 +1,35 @@
 # Cloud9 Bank 
-(AI/ML Credit Lending Platform)
+### A micro credit loan management software
 
-# Overview
-Cloud9 Bank is a credit lending platform designed specifically for MSME entrepreneurs. Leveraging advanced AI/ML techniques, the platform automates the creditworthiness assessment process, improving efficiency and reducing manual intervention.
+## Installation 
+ * Import ```brac_loan.sql``` database file.
+ * ```config/config.php``` contains database access information
 
-# Key Features
-AI-Powered Credit Assessment: Utilizes machine learning models to evaluate credit risk and make informed lending decisions.
-Automated Workflow: Streamlines the lending process, from application to approval, reducing turnaround time.
-Data-Driven Insights: Provides valuable analytics and insights to optimize lending strategies.
 
-# Technical Stack
-Backend: PHP
-Machine Learning: Python, [List of relevant ML libraries, e.g., TensorFlow, Scikit-learn]
+### Login access for different roles
+```
+
+Branch Officer Login Access:
+E-mail:  branch@gmail.com
+Password:  123
+
+Head Officer Login Access: 
+E-mail: head@gmail.com
+pasword: 123
+
+Varifier Login Access
+
+E-mail: varifier@gmail.com
+password: 123
+
+```
+## Features
+
+ * Borrower can apply for loan and Branch Officer process the loan application through the system.
+ * Take Loan Payment from borrower.
+ * Multi Level varification of Loan Application by Head office, Branch office and varifier.
+ * Liability Management.
+ * Rejected borrower management.
+ * Generate loan confirmation report .
+ 
+## ✍️ Please give this repo a ⭐ if you found it helpful.
