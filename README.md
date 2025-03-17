@@ -1,35 +1,29 @@
-# Cloud9 Bank 
-### A micro credit loan management software
+# Credit Lending for MSME Entrepreneurs using AI/ML
 
-## Installation 
- * Import ```brac_loan.sql``` database file.
- * ```config/config.php``` contains database access information
+## Overview
+This project focuses on providing credit lending solutions for MSME entrepreneurs through AI/ML-driven assessments. Cloud9 Bank was developed from scratch to automate the lending process and enhance decision-making efficiency.
 
-
-### Login access for different roles
-```
-
-Branch Officer Login Access:
-E-mail:  branch@gmail.com
-Password:  123
-
-Head Officer Login Access: 
-E-mail: head@gmail.com
-pasword: 123
-
-Varifier Login Access
-
-E-mail: varifier@gmail.com
-password: 123
-
-```
 ## Features
+- **End-to-End Credit Lending Platform:** Built and launched Cloud9 Bank to support MSME entrepreneurs.  
+- **AI/ML Credit Assessment:** Implemented machine learning models to evaluate creditworthiness.  
+- **Automated Decision-Making:** Leveraged AI/ML techniques to streamline the lending process and improve operational efficiency.  
 
- * Borrower can apply for loan and Branch Officer process the loan application through the system.
- * Take Loan Payment from borrower.
- * Multi Level varification of Loan Application by Head office, Branch office and varifier.
- * Liability Management.
- * Rejected borrower management.
- * Generate loan confirmation report .
- 
+## Technologies Used
+- **Programming Languages:** PHP, Python  
+- **Libraries:** Pandas, NumPy, Scikit-Learn  
+- **Machine Learning Models:** Logistic Regression, Decision Trees  
+- **Database:** MySQL  
+- **Web Framework:** PHP for backend development
+## Future Enhancements
+- Enhance AI/ML models for better risk assessment.  
+- Integrate real-time financial data sources.  
+- Deploy the system using cloud infrastructure.  
+
+## Contributors
+[Arun Reddy](https://github.com/Arun-reddy22)  
+
+## License
+This project is licensed under the MIT License.  
+
+
 ## ✍️ Please give this repo a ⭐ if you found it helpful.
